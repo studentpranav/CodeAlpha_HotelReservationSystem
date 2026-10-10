@@ -1,0 +1,5 @@
+Customer: Pranav Patil
+Room: 301
+Category: Suite
+Price: Rs.4000.0
+Availability: Available
